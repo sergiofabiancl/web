@@ -1,0 +1,28 @@
+body{
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both;
+}
+header {
+  width: 100%;
+  background-color:whitesmoke;
+}
+section {
+  background-color:white;
+}
+aside {
+  width: 29%;
+  background-color:whitesmoke;
+  float: right;
+}
+article {
+  width: 70%;
+}
+footer {
+  width: 100%;
+  text-align: right;
+  background-color:whitesmoke;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
