@@ -2,26 +2,30 @@ body{
   min-height: 400px;
   margin-bottom: 100px;
   clear: both;
+  background-color: #4a3341;
+  color: #e0e6e9;
+}
+h1 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  text-decoration: overline;
 }
 header {
-  width: 100%;
-  background-color:whitesmoke;
-}
-section {
-  background-color:white;
-}
-aside {
-  width: 29%;
-  background-color:whitesmoke;
-  float: right;
+  background-color:#6d4d6e;
+  color: #e0e6e9;
+  padding: 2%;
 }
 article {
-  width: 70%;
+  padding: 1.5%;
 }
 footer {
   width: 100%;
   text-align: right;
-  background-color:whitesmoke;
+  background-color: #a3a4be;
+  color: #4a3341;
+  font-size: x-small;
   position: fixed;
   left: 0;
   bottom: 0;
