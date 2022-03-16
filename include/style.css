@@ -8,9 +8,12 @@ body{
 h1 {
   text-align: center;
 }
-h5 {
+#bajada {
   text-align: center;
   text-decoration: overline;
+}
+#perfil {
+  max-width: 20%;
 }
 header {
   background-color:#6d4d6e;
