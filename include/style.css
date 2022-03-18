@@ -12,7 +12,10 @@ header h4 {
   text-align: center;
   text-decoration: overline;
 }
-h1 img {
+h2 {
+  text-decoration: underline;
+}
+h2 img {
   max-width: 20%;
 }
 header {
