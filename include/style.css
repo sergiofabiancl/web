@@ -17,7 +17,9 @@ h2 {
   line-height: 0.2;
 }
 h2 img {
-  max-width: 20%;
+  min-width: 20%;
+  max-width: 60%;
+
 }
 header {
   background-color:#6d4d6e;
