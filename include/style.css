@@ -13,7 +13,8 @@ header h4 {
   text-decoration: overline;
 }
 h2 {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
+  line-height: 0.2;
 }
 h2 img {
   max-width: 20%;
